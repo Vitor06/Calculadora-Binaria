@@ -1,4 +1,4 @@
-
+#Autor:Vitor Fernandes Gonçalves da Cruz
 import math
 
 NUMERO_DE_BITS =16#Quantidade de bits dos números
