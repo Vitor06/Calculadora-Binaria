@@ -5,3 +5,5 @@ Este repositório possui dois códigos:
  Realização das operações de adição, subtração, multiplicação, divisão de dois números inteiros.
 # 2 - Complemento de Dois
   Realização das operações de multiplicação e divisão de dois números inteiros.
+# 3 - Execução
+   Para exwecutar, basta clicar no executável ou executar o comando python CalculadoraBinariaComplementoDeDois.py e python CalculadoraBinariaSinalMagnitude.py
