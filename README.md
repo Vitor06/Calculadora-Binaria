@@ -6,6 +6,8 @@ Este repositório possui dois códigos:
 # 2 - Complemento de Dois
   Realização das operações de multiplicação e divisão de dois números inteiros.
 # 3 - Execução
-   Para a execução dos scripts basta clicar no executável ou escrever o seguinte comando no cmd:
-      python CalculadoraBinariaComplementoDeDois.py 
+   Para a execução dos scripts basta clicar no executável ou escrever os seguintes comandos no cmd:
+   
+      python CalculadoraBinariaComplementoDeDois.py
+
       python CalculadoraBinariaSinalMagnitude.py
